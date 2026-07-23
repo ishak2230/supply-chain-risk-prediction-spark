@@ -147,26 +147,13 @@ The interactive heatmap:
 - Geographic delivery risks varied across regions.
 - Shipping-related variables were stronger predictors than financial variables.
 - Order country, shipping mode, order status, geographic coordinates, and shipping schedule were among the most important features.
-
 ---
+## Screenshots
 
-## Challenges
-
-- Missing and inconsistent data
-- Removal of sensitive customer information
-- Slight class imbalance
-- Multi-country geographic variability
-- Temporal feature extraction and preprocessing
-
-
-
-## Future Improvements
-
-- Real-time prediction using Spark Structured Streaming
-- Automated model retraining pipeline
-- Explainable AI using SHAP values
-- Dashboard integration with Power BI or Tableau
-- Cloud deployment on Azure or AWS
+<img width="1024" height="390" alt="image" src="https://github.com/user-attachments/assets/8e7f5961-b4b4-49d4-9231-a0e866db8ef3" />
+<img width="1189" height="490" alt="image" src="https://github.com/user-attachments/assets/f7cedc1a-7681-44b5-a914-c4c3e9cb01ef" />
+<img width="1389" height="975" alt="image" src="https://github.com/user-attachments/assets/0e5a5149-fa2e-48f5-ae16-856abc1aabd8" />
+<img width="1389" height="490" alt="image" src="https://github.com/user-attachments/assets/b16d7bcb-4451-4836-afff-335e9c17c253" />
 
 ---
 
