@@ -148,7 +148,7 @@ The interactive heatmap:
 - Shipping-related variables were stronger predictors than financial variables.
 - Order country, shipping mode, order status, geographic coordinates, and shipping schedule were among the most important features.
 ---
-## Screenshots
+##  Results
 
 <img width="1024" height="390" alt="image" src="https://github.com/user-attachments/assets/8e7f5961-b4b4-49d4-9231-a0e866db8ef3" />
 <img width="1189" height="490" alt="image" src="https://github.com/user-attachments/assets/f7cedc1a-7681-44b5-a914-c4c3e9cb01ef" />
